@@ -1,7 +1,7 @@
 # Libra-Blockchain-Connector
 
 * Download and install Qlik Sense desktop
-* Download and unzipped the file "QvEventLogConnectorSimple"
+* Download and unzipped the folder **"QvEventLogConnectorSimple.zip"**
 * Place the "QvEventLogConnectorSimple" folder in C:\Program Files\Common Files\Qlik\Custom Data. Create the folders if they don't exist. Make sure you have Full Control on folder permissions
 * Open Qlik Sense 
 * Create new app
